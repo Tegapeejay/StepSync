@@ -1,0 +1,2 @@
+# StepSync
+A Pedometer app
